@@ -4,8 +4,8 @@
 
 Reach Out Me
 
-[<img width="22" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" aligin= "left" />][linkedin]
-[<img width="22" src="https://simpleicons.org/icons/microsoftoutlook.svg" aligin= "left" />][outlook]
+[<img width="25" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" aligin= "left" />][linkedin]
+[<img width="25" src="https://simpleicons.org/icons/microsoftoutlook.svg" aligin= "left" />][outlook]
 
 
 
